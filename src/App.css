@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@layer base{
+    h1{font-size: 30px;} 
+    h2{font-size: var(--text-xl);}  
+}
+
+@theme{
+    --color-tia-500: rgb(143, 219, 43);
+    --color-color1: oklch(0.627 0.194 149.214);
+    --color-color2: #95de4c;
+
+    --breakpoint-sm2: 36rem;
+    --breakpoint-md2: 44rem;
+    --breakpoint-lg2: 62rem;
+    --breakpoint-xl2: 75rem;
+    --breakpoint-2xl2: 88rem;
+
+    --shadow-c1: 1px 4px 4px #d1d5dc;
+}
+:root{
+    --colorC: oklch(0.627 0.194 149.214);
+    --colorC2: #1e2939;
+}
+
+.tShadow{
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+@keyframes anim1 {
+    0%{z-index: 10;}
+    100%{top: 55%;
+    z-index: 10;}
+}
+.anim1{
+    animation: anim1 0.9s ease-in 0.1s 1;
+}
+
+
+
+
+
