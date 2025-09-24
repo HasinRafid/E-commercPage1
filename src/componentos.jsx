@@ -362,7 +362,7 @@ function SeventhSection(){
       <li className='mb-2'><a className='hover:text-color1 hover:underline duration-300' href="https://web.facebook.com/m.h.a.RAFID" target='_blank'>Facebook</a></li>
       <li className='mb-2'><a className='hover:text-color1 hover:underline duration-300' href="https://x.com/HasinRafid420" target='_blank'>X Account</a></li>
       <li className='mb-2'><a className='hover:text-color1 hover:underline duration-300' href="https://www.upwork.com/freelancers/~01e89795f3f93cc8ff?viewMode=1" target='_blank'>Upwork Profile</a></li>
-      <li className='mb-2'><a className='hover:text-color1 hover:underline duration-300' href="" target='_blank'>Repo of this project</a></li>
+      <li className='mb-2'><a className='hover:text-color1 hover:underline duration-300' href="https://github.com/HasinRafid/E-commercPage1" target='_blank'>Repo of this project</a></li>
     </ul>
 
     <ul className='hidden md2:block text-sm text-gray-700'>
