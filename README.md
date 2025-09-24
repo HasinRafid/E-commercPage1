@@ -1,6 +1,6 @@
 # 🌐 Vite + React + Tailwind Project
 
-A random coding related page built with **Vite**, **React**, and **TailwindCSS**.  
+A random E-commerce page built with **Vite**, **React**, and **TailwindCSS**.  
 It is deployed live on GitHub Pages:  
 👉 [Visit Website](https://hasinrafid.github.io/E-commercPage1/)
 
